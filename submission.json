@@ -1,0 +1,13 @@
+{
+  "testCredentials": {
+    "adminUser": {
+      "email": "admin@test.com",
+      "password": "password123"
+    },
+    "memberUser": {
+      "email": "member@test.com",
+      "password": "password123"
+    }
+  },
+  "tenantSlug": "acme-corp"
+}
